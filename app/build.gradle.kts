@@ -4,7 +4,7 @@ plugins {
 
 android {
     namespace = "com.example.pr29_glazirinng"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.example.pr29_glazirinng"
